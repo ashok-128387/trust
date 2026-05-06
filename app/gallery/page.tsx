@@ -1,6 +1,6 @@
 'use client';
 
-import { Heart, ArrowLeft } from 'lucide-react';
+import { Heart, ArrowLeft, Menu } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 

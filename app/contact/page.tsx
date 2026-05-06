@@ -1,6 +1,6 @@
 'use client';
 
-import { Heart, ArrowLeft, MapPin, Phone, Mail, Instagram } from 'lucide-react';
+import { Heart, ArrowLeft, MapPin, Phone, Mail, Instagram, Menu } from 'lucide-react';
 import Link from 'next/link';
 
 export default function ContactPage() {

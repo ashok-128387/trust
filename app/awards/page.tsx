@@ -1,6 +1,6 @@
 'use client';
 
-import { Heart, ArrowLeft } from 'lucide-react';
+import { Heart, ArrowLeft, Menu } from 'lucide-react';
 import Link from 'next/link';
 
 export default function AwardsPage() {
