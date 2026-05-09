@@ -203,7 +203,7 @@ export default function Home() {
                 ಶ್ರೀ ಬಿ.ಜಿ ಅಣ್ಣಿಗೇರಿ ಗುರುಗಳ ಪ್ರತಿಭಾ ಪ್ರತಿಷ್ಠಾನ
               </h1>
               <p className="text-lg text-muted-foreground mb-8">
-                ಗದಗ ಜಿಲ್ಲೆಯ ಪ್ರತಿಭಾವಂತ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಗುರುತಿಸಿ ಸಂಮಾನಿಸುವ ಪ್ರತಿಷ್ಠಾನ. ನಾವು ಶಿಕ್ಷಾರ್ಥಿಗಳ ಪ್ರತಿಭೆ ಮತ್ತು ಅಧ್ಯುಷಿತವನ್ನು ಹೊರಬಂದರಿಂದ ಸಾಧಿಸುವುದನ್ನು ಬಯಸುತ್ತೇವೆ.
+                ಗದಗ ಜಿಲ್ಲೆಯ ಪ್ರತಿಭಾವಂತ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಗುರುತಿಸಿ ಸನ್ಮಾನಿಸುವ ಪ್ರತಿಷ್ಠಾನ. ನಾವು ವಿದ್ಯಾರ್ಥಿಗಳ ಪ್ರತಿಭೆ ಮತ್ತು ಅಧ್ಯಯನವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಲು ಬದ್ಧರಾಗಿದ್ದೇವೆ.
               </p>
               <button
                 onClick={() => scrollToSection('awards')}
@@ -250,7 +250,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold text-primary mb-3">ಗುರುತಿಸುವುದು</h3>
               <p className="text-muted-foreground">
-                ಸರ್ಕಾರಿ ಪ್ರೌಢ ಶಾಲೆಗಳಲ್ಲಿ ಪ್ರತಿಭಾವಂತ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಸ್ವೀಕೃತಿ ನೀಡಿ ಅವರ ಅಧ್ಯುಸಿತೆಯನ್ನು ಪ್ರತಿಷ್ಠಿತ ಮಾಡುವುದು.
+                ಸರ್ಕಾರಿ ಪ್ರೌಢಶಾಲೆಗಳಲ್ಲಿ ಪ್ರತಿಭಾವಂತ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಗುರುತಿಸಿ ಅವರ ಅಧ್ಯಯನವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುವುದು.
               </p>
             </div>
             <div className="bg-white rounded-2xl p-8 shadow-sm">
@@ -259,7 +259,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold text-primary mb-3">ಪುರಸ್ಕಾರ</h3>
               <p className="text-muted-foreground">
-                ಪ್ರತಿ ಅಕಾಡೆಮಿಕ್ ವರ್ಷದಲ್ಲಿ ಶ್ರೇಷ್ಠ ಸಾಧಕ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ನಗದು ಪುರಸ್ಕಾರ, ಕಾಲೇಜ್ ಬ್ಯಾಗ್ ಮತ್ತು ಸರ್ಟಿಫಿಕೇಟ್ ನೀಡುವುದು.
+                ಪ್ರತಿ ಶೈಕ್ಷಣಿಕ ವರ್ಷದಲ್ಲಿ ಶ್ರೇಷ್ಠ ಸಾಧನೆ ಮಾಡಿದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ನಗದು ಪುರಸ್ಕಾರ, ಕಾಲೇಜ್ ಬ್ಯಾಗ್ ಮತ್ತು ಪ್ರಮಾಣಪತ್ರ ನೀಡುವುದು.
               </p>
             </div>
             <div className="bg-white rounded-2xl p-8 shadow-sm">
@@ -268,7 +268,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold text-primary mb-3">ಪ್ರೇರಣೆ</h3>
               <p className="text-muted-foreground">
-                ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಅಧ್ಯಯನ, ಕ್ರೀಡೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಸಂಬಂಧಗಳಿಂದ ಪ್ರೇರಿತ ಮಾಡುವುದು.
+                ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಅಧ್ಯಯನ, ಕ್ರೀಡೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಪ್ರೇರಿತ ಮಾಡುವುದು.
               </p>
             </div>
           </div>
